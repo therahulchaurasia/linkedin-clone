@@ -46,7 +46,7 @@
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/therahulchaurasia/Where-in-the-world)
+- Solution URL: [Github Repo](https://github.com/therahulchaurasia/linkedin-clone)
 
 - Live Site URL: [Firebase Hosting](https://linkedin-clone-fc225.web.app)
 
